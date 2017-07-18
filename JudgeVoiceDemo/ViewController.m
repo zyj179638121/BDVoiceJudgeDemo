@@ -92,7 +92,7 @@
     paramsObject.tipsList = [NSArray arrayWithObjects:@"我要记账", @"买苹果花了十块钱", @"买牛奶五块钱", @"第四行滚动后可见", @"第五行是最后一行", nil];
     
     paramsObject.appCode = APPID;
-    paramsObject.licenseFilePath= [[NSBundle mainBundle] pathForResource:@"temp_license_2017-07-17" ofType:@""];
+//    paramsObject.licenseFilePath= [[NSBundle mainBundle] pathForResource:@"temp_license_2017-07-17" ofType:@""];
     paramsObject.datFilePath = [[NSBundle mainBundle] pathForResource:@"s_1" ofType:@""];
     if ([[BDVRSConfig sharedInstance].recognitionProperty intValue] == EVoiceRecognitionPropertyMap) {
         paramsObject.LMDatFilePath = [[NSBundle mainBundle] pathForResource:@"s_2_Navi" ofType:@""];
