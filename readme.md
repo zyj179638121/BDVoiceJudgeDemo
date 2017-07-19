@@ -1,7 +1,7 @@
 
 ## 语音识别
 
-<img src="https://github.com/zyj179638121/BDVoiceJudgeDemo/blob/master/asd.gif" width="180" height="335" />
+<img src="https://github.com/zyj179638121/BDVoiceJudgeDemo/blob/master/sss.gif" width="180" height="335" />
 
 
 ***百度语音识别小demo***
